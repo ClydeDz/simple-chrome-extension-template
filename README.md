@@ -1,5 +1,5 @@
 # Simple Chrome Extension Template
-A simple Chrome Extension created using a template. This extension override's Chrome's new tab with a simple HTML page. This HTML page references a JS and CSS file. No node_modules, no dependencies, no complexity. Everything is kept super basic. 
+A simple Chrome Extension created using a template. This extension override's Chrome's new tab with a simple HTML page. This HTML page references a JS and CSS file. No node_modules, no dependencies, no automated CI/CD, no complexity. Everything is kept super basic. 
 
 ## What does this include? 
 ### Override Chrome's new tab
